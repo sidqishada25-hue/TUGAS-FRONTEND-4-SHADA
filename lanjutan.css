@@ -1,0 +1,36 @@
+    #layout1{
+        background-color: rgb(210, 179, 6);
+        border: 2px solid black;
+        width: 1180px;
+        height: 680px;
+        margin: auto;
+        font-size: 22px;
+        padding: 20px;
+    }
+    body{
+        background-color:rgb(65, 45, 6) ;
+        }
+    footer  {color: rgb(101, 74, 6);
+            text-align: center ;
+            position: absolute;
+            left: 30%;
+            bottom: 0%;
+            }
+    .BACK a {
+        color: rgb(58, 45, 4);
+        background-color: rgb(255, 170, 0);
+        border: 2px solid black;
+        text-decoration: none;
+        padding: 3px;
+        position: relative;
+        top: 557px;
+            }
+    p {color: rgb(86, 64, 6);
+        text-indent: 25px;
+        text-align: justify;
+    }
+    img {
+    width: 200px;
+    margin: 40px;
+    border: 1px solid black;
+        }
